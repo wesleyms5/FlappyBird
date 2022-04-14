@@ -1,16 +1,18 @@
-<blockquote> informaçoes de jogo 
-<h6> windows > 10 <br> versão : 1.0 <br> game engine : unity <br> code : c# unity
+# Unity Test - Flappy Bird
+To learn Unity I made this Flappy Bird clone using C# and Unity <br>
+
+# Game Information
+
+<blockquote> Game Information
+<h6> Windows > 10 <br> Version : 1.0 <br> Game Engine : Unity <br> Code : C# Unity
 </blockquote> 
   
- # informacoes do criador kpopero
+ # Creator Information
   
-<blockquote> informeçoes do criador <br>
-<a href="google.com"> aqui vc coloca porras </a> <br>
-<a href="google.com"> aqui vc coloca suas porras</a>
+<blockquote> Creator Information <br>
+E-mail: wesleym.sotero16@gmail.com <br>
+Discord: Farking#2483 <br>
+ <a href="https://www.linkedin.com/in/wesleysotero/"> Linkedin </a>
 </blockquote>
- 
-# aqui só teste mesmo  
   
-<blockquote>
-  <i> aqui eu so to testando mesmo</i>
-</blockquote>
+  
