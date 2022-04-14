@@ -5,12 +5,12 @@ To learn Unity I made this Flappy Bird clone using C# and Unity <br>
 
 
 
-![WhatsApp Image 2022-04-13 at 22 52 31](https://user-images.githubusercontent.com/100660344/163298675-aa3280ae-8e82-4624-8988-b9a925af8f8b.jpeg)
+<img src="https://user-images.githubusercontent.com/100660344/163298675-aa3280ae-8e82-4624-8988-b9a925af8f8b.jpeg">
+
+<img src="https://user-images.githubusercontent.com/100660344/163298695-e6c50dd7-c970-4969-949f-e97532bb6376.jpeg">
 
 
 
-
-![WhatsApp Image 2022-04-13 at 22 55 08](https://user-images.githubusercontent.com/100660344/163298695-e6c50dd7-c970-4969-949f-e97532bb6376.jpeg)
 
 
 # Game Information
