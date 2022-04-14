@@ -15,6 +15,6 @@ Discord: Farking#2483 <br>
  <a href="https://www.linkedin.com/in/wesleysotero/"> Linkedin </a>
 </blockquote>
   
- # Author: weslleyms5
+ # Author: wesleyms5
  # Date:  04/13/2022
   
